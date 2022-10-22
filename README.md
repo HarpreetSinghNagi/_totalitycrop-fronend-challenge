@@ -41,6 +41,6 @@
 
 - [x] [ReactJS](https://reactjs.org);
 - [x] [TypeScript](https://www.typescriptlang.org/);
-- [x] [Styled Components](https://styled-components.com/).
+
 
 <br>
