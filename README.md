@@ -14,25 +14,25 @@
 ##
 
 <p align="center">
-  <img src="src\assets\img\banner.png"/>
+  Deployed (https://totalitycrop-frontend-challenge-one.vercel.app/).
 </p>
 
 <br>
 
 
 
-Deployed [here](https://totalitycrop-frontend-challenge-one.vercel.app/).
+
 
 <br>
 
 <p align="center">
-  <img src="src\assets\img\linkedin-1.gif"/>
+  <img src="src\assets\img\photo1.gif"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="src\assets\img\linkedin-2.gif"/>
+  <img src="src\assets\img\photo2.gif"/>
 </p>
 
 <br>
